@@ -1,6 +1,61 @@
-h1{
+#other0{
+  text-align: center;
+  color: #FFEA00;
+}
+#other3{
   text-align: center;
 }
-h2{
+nav{
+  border: 2px solid black;
+}
+.navbar {
+  margin-top: -20px;
+  background: cyan;
+  display: inline-block;
+}
+#other{
+  background: greenyellow;
+  color: rgba(0, 201, 255, 1);
+  padding: 10px;
   text-align: center;
+}
+#other4{
+  color:#DB02AD;
+}
+#other5{
+  color: red;
+}
+#other6{
+  color: #f5f5f5;
+  background: hsla(236, 8%, 32%, 1)
+}
+#other{
+  text-align: center;
+}
+#other7{
+  color: #FF9746D6;
+}
+#other8{
+  color: #BBFB16;
+}
+#other9{
+  color: #FF0000;
+}
+#other10{
+  color: #34FF00;
+}
+#other11{
+  color: #0678FF;
+}
+#other12{
+  text-align: center;
+  background: #AAFF7C;
+  border: 2px solid #FFA100;
+}
+#other13{
+  margin: 100px;
+  text-align: center;
+}
+#gtav{
+  color: #FFEA00;
 }
