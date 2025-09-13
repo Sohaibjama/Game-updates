@@ -2,7 +2,7 @@
   text-align: center;
   color: #FFEA00;
 }
-#other3{
+.other3{
   text-align: center;
 }
 nav{
@@ -10,10 +10,10 @@ nav{
 }
 .navbar {
   margin-top: -20px;
-  background: cyan;
+  background: #9EE8FF;
   display: inline-block;
 }
-#other{
+.other{
   background: greenyellow;
   color: rgba(0, 201, 255, 1);
   padding: 10px;
@@ -47,15 +47,33 @@ nav{
 #other11{
   color: #0678FF;
 }
-#other12{
+.other12{
   text-align: center;
   background: #AAFF7C;
   border: 2px solid #FFA100;
 }
-#other13{
+.other13{
   margin: 100px;
   text-align: center;
 }
 #gtav{
   color: #FFEA00;
+}
+.id{
+  display: block;
+}
+#other14{
+  text-align: center ;
+}
+#other15{
+  text-align: center;
+}
+ #other16{
+  background: greenyellow;
+  color: rgba(0, 201, 255, 1);
+  padding: 10px;
+  text-align: center;
+}
+#other18{
+  
 }
